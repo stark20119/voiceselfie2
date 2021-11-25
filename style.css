@@ -1,0 +1,13 @@
+
+ 
+#display
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#photo-jpg
+{
+    width: 150px;
+    border-radius: 100px;
+
